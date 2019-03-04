@@ -10,6 +10,7 @@ import java.util.Scanner;
  *
  * @author Graham
  */
+// adding a new class
 public class TestUserprofile {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in); // scanner variable
